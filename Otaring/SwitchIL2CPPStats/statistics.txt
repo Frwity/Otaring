@@ -1,0 +1,381 @@
+----IL2CPP Arguments----
+--convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --platform=Switch --architecture=ARM64 --configuration=Release --outputpath=C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Library/Il2cppBuildCache/Switch\Native\SwitchPlayer.nss --cachedirectory=C:/Users/dev_console/Documents/Console_workshop-GDP3_GP3/Groupe_4/2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4/Otaring/Assets/../SwitchIL2CPPCache/il2cpp_cache --linker-flags=-lC:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\NativePlugins\NintendoSDKPlugin.a -n"C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Application.aarch64.lp64.nmeta" --plugin=C:/Program Files/Unity/2020.3.17f1/Editor/Data/PlaybackEngines/Switch/Tools\Il2CppPlugin.dll --additional-include-directories=C:\Program Files\Unity\2020.3.17f1\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\bdwgc/include --additional-include-directories=C:\Program Files\Unity\2020.3.17f1\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\libil2cpp/include --baselib-directory=C:\Program Files\Unity\2020.3.17f1\Editor\Data\PlaybackEngines\Switch\Native\release --avoid-dynamic-library-copy --verbose --enable-stats --stats-output-dir=C:/Users/dev_console/Documents/Console_workshop-GDP3_GP3/Groupe_4/2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4/Otaring/Assets/../SwitchIL2CPPStats --libil2cpp-static --additional-defines=DEBUGMODE=0,UNITY_RELEASE=1,IL2CPP_USE_SOCKET_MULTIPLEX_IO=1 --configuration=ReleasePlus --additional-cpp=C:/Users/dev_console/Documents/Console_workshop-GDP3_GP3/Groupe_4/2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4/Otaring/Library/Il2cppBuildCache/Switch/additionalCppFiles/UnlinkedFunctions.cpp --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=C:/Program Files/Unity/2020.3.17f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=C:/Users/dev_console/Documents/Console_workshop-GDP3_GP3/Groupe_4/2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4/Otaring/Temp/StagingArea/Managed --generatedcppdir=C:/Users/dev_console/Documents/Console_workshop-GDP3_GP3/Groupe_4/2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4/Otaring/Library/Il2cppBuildCache/Switch/il2cppOutput
+
+----Assemblies Converted-----
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Assembly-CSharp-firstpass.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Assembly-CSharp.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\DOTween.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Mono.Security.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\mscorlib.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\System.Configuration.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\System.Core.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\System.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\System.Xml.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Unity.InputSystem.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Unity.InputSystem.Switch.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Unity.Mathematics.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Unity.RenderPipelines.Core.Runtime.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Unity.RenderPipelines.Universal.Runtime.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\Unity.TextMeshPro.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.AIModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.AndroidJNIModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.AnimationModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.AssetBundleModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.AudioModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.CoreModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.DirectorModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.GridModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.IMGUIModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.InputLegacyModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.InputModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.JSONSerializeModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.ParticleSystemModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.Physics2DModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.PhysicsModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.SharedInternalsModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.SpriteShapeModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.SubsystemsModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.SwitchModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.TerrainModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.TextCoreModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.TextRenderingModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.TilemapModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.UI.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.UIElementsModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.UIElementsNativeModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.UIModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.UnityWebRequestModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.VFXModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.VideoModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.VRModule.dll
+	C:\Users\dev_console\Documents\Console_workshop-GDP3_GP3\Groupe_4\2021_gdp_2023_gp_2023_console_gdp_2023_gp_2023_console-Groupe_4\Otaring\Temp\StagingArea\Managed\UnityEngine.XRModule.dll
+
+----- il2cpp Statistics -----
+General:
+	Conversion Time: 5,121 s
+	Job Count: 20
+	Processor Count: 20
+	Files Written: 307
+	String Literals: 5929
+Methods:
+	Total Methods: 49762
+	Non-Generic Methods: 27104
+	Generic Type Methods: 18132
+	Generic Methods: 4526
+	Shared Methods: 22581
+	Methods with Tail Calls : 0
+Metadata:
+	Total: 3 553,13 kb
+	String Literals: 46,32 kb
+	String Literal Data: 187,72 kb
+	Metadata Strings: 604,89 kb
+	Events: 1,83 kb
+	Properties: 108,81 kb
+	Methods: 931,28 kb
+	Parameter Default Values: 13,01 kb
+	Field Default Values: 74,13 kb
+	Field and Parameter Default Values Data: 102,31 kb
+	Field Marshaled Sizes: 15,89 kb
+	Parameters: 384,74 kb
+	Fields: 234,69 kb
+	Generic Parameters: 15,12 kb
+	Generic Parameter Constraints: 1,50 kb
+	Generic Containers: 12,14 kb
+	Nested Types: 5,24 kb
+	Interfaces: 6,59 kb
+	VTables: 175,07 kb
+	Interface Offsets: 35,31 kb
+	Type Definitions: 401,07 kb
+	Images: 1,91 kb
+	Assemblies: 3,06 kb
+	Field Refs: 1,00 kb
+	Referenced Assemblies: 1,09 kb
+	Attribute Types Ranges: 106,69 kb
+	Attribute Types: 61,58 kb
+	Unresolved Virtual Call Parameter Types: 9,90 kb
+	Unresolved Virtual Call Parameter Ranges: 6,54 kb
+	Windows Runtime type names: 0,00 kb
+	Windows Runtime strings: 0,00 kb
+	Exported Types: 3,68 kb
+Codegen:
+	NullChecks : 81196
+Interop:
+	Windows Runtime boxed types : 0
+	Windows Runtime types with names : 0
+	Native to managed interface adapters : 0
+	Array COM callable wrappers : 0
+	COM callable wrappers : 0
+	COM callable wrapper methods that were implemented : 0
+	COM callable wrapper methods that were stripped : 0
+	COM callable wrapper methods that were forwarded to call base class method : 0
+Compilation:
+	Total Files: 377
+	Files Compiled: 101
+	Cache Hits: 276
+	Cache Hit %: 73
+
+
+----Assembly Conversion Times----
+
+----Misc Timing----
+	PreProcessStage: None
+	GenericsCollector.Collect: None
+	WriteGenerics: None
+	AllAssemblyConversion: None
+
+----Generated Files----
+Assembly-CSharp.cpp	3840597
+Assembly-CSharp_Attr.cpp	459574
+Assembly-CSharp1.cpp	3488673
+Assembly-CSharp2.cpp	1662967
+Assembly-CSharp-firstpass.cpp	1583336
+Assembly-CSharp-firstpass_Attr.cpp	136431
+DOTween.cpp	1834721
+DOTween_Attr.cpp	271150
+DOTween1.cpp	1917091
+DOTween2.cpp	893128
+GenericMethods.cpp	3703702
+GenericMethods1.cpp	2343328
+GenericMethods2.cpp	4952291
+GenericMethods3.cpp	2030788
+GenericMethods4.cpp	3161337
+GenericMethods5.cpp	2895639
+GenericMethods6.cpp	3259160
+GenericMethods7.cpp	2574189
+GenericMethods8.cpp	2406866
+GenericMethods9.cpp	1934750
+Generics.cpp	2935097
+Generics1.cpp	1916653
+Generics10.cpp	2149382
+Generics11.cpp	2217021
+Generics12.cpp	3520203
+Generics13.cpp	3401436
+Generics14.cpp	2173016
+Generics15.cpp	1281712
+Generics16.cpp	1326226
+Generics17.cpp	1300611
+Generics18.cpp	1410083
+Generics19.cpp	2040140
+Generics2.cpp	2389633
+Generics20.cpp	2185195
+Generics21.cpp	2726504
+Generics22.cpp	2377704
+Generics23.cpp	2071506
+Generics24.cpp	2466322
+Generics25.cpp	1368138
+Generics3.cpp	1680131
+Generics4.cpp	1573691
+Generics5.cpp	3312283
+Generics6.cpp	3846416
+Generics7.cpp	2289225
+Generics8.cpp	1771760
+Generics9.cpp	2394614
+Il2CppCCalculateFieldValues.cpp	7801784
+Il2CppCCalculateFieldValues1.cpp	5116089
+Il2CppCCalculateTypeValues.cpp	11570290
+Il2CppCCalculateTypeValues1.cpp	316178
+Il2CppCCFieldValuesTable.cpp	277662
+Il2CppCCTypeValuesTable.cpp	441360
+Il2CppCodeRegistration.cpp	7781
+Il2CppGenericAdjustorThunkTable.cpp	969746
+Il2CppGenericComDefinitions.cpp	173
+Il2CppGenericComDefinitions1.cpp	173
+Il2CppGenericComDefinitions10.cpp	173
+Il2CppGenericComDefinitions11.cpp	173
+Il2CppGenericComDefinitions12.cpp	173
+Il2CppGenericComDefinitions13.cpp	173
+Il2CppGenericComDefinitions14.cpp	173
+Il2CppGenericComDefinitions15.cpp	173
+Il2CppGenericComDefinitions16.cpp	173
+Il2CppGenericComDefinitions17.cpp	173
+Il2CppGenericComDefinitions18.cpp	173
+Il2CppGenericComDefinitions19.cpp	173
+Il2CppGenericComDefinitions2.cpp	173
+Il2CppGenericComDefinitions20.cpp	173
+Il2CppGenericComDefinitions21.cpp	173
+Il2CppGenericComDefinitions22.cpp	173
+Il2CppGenericComDefinitions23.cpp	173
+Il2CppGenericComDefinitions24.cpp	173
+Il2CppGenericComDefinitions25.cpp	173
+Il2CppGenericComDefinitions26.cpp	173
+Il2CppGenericComDefinitions27.cpp	173
+Il2CppGenericComDefinitions28.cpp	173
+Il2CppGenericComDefinitions29.cpp	173
+Il2CppGenericComDefinitions3.cpp	173
+Il2CppGenericComDefinitions30.cpp	173
+Il2CppGenericComDefinitions31.cpp	173
+Il2CppGenericComDefinitions32.cpp	173
+Il2CppGenericComDefinitions33.cpp	173
+Il2CppGenericComDefinitions34.cpp	173
+Il2CppGenericComDefinitions35.cpp	173
+Il2CppGenericComDefinitions36.cpp	173
+Il2CppGenericComDefinitions37.cpp	173
+Il2CppGenericComDefinitions38.cpp	173
+Il2CppGenericComDefinitions39.cpp	173
+Il2CppGenericComDefinitions4.cpp	173
+Il2CppGenericComDefinitions40.cpp	173
+Il2CppGenericComDefinitions41.cpp	173
+Il2CppGenericComDefinitions42.cpp	173
+Il2CppGenericComDefinitions43.cpp	173
+Il2CppGenericComDefinitions44.cpp	173
+Il2CppGenericComDefinitions45.cpp	173
+Il2CppGenericComDefinitions46.cpp	173
+Il2CppGenericComDefinitions47.cpp	173
+Il2CppGenericComDefinitions48.cpp	173
+Il2CppGenericComDefinitions49.cpp	173
+Il2CppGenericComDefinitions5.cpp	173
+Il2CppGenericComDefinitions50.cpp	173
+Il2CppGenericComDefinitions51.cpp	173
+Il2CppGenericComDefinitions52.cpp	173
+Il2CppGenericComDefinitions53.cpp	173
+Il2CppGenericComDefinitions54.cpp	173
+Il2CppGenericComDefinitions6.cpp	173
+Il2CppGenericComDefinitions7.cpp	173
+Il2CppGenericComDefinitions8.cpp	173
+Il2CppGenericComDefinitions9.cpp	173
+Il2CppGenericMethodPointerTable.cpp	5648293
+Il2CppInteropDataTable.cpp	341718
+Il2CppInvokerTable.cpp	7966534
+Il2CppReversePInvokeWrapperTable.cpp	2456
+Mono.Security.cpp	142014
+Mono.Security_Attr.cpp	32922
+mscorlib.cpp	2184853
+mscorlib_Attr.cpp	899830
+mscorlib1.cpp	2389083
+mscorlib10.cpp	1869981
+mscorlib11.cpp	1871921
+mscorlib12.cpp	1487547
+mscorlib13.cpp	2013323
+mscorlib14.cpp	2061301
+mscorlib15.cpp	1619201
+mscorlib16.cpp	2084231
+mscorlib17.cpp	1221847
+mscorlib2.cpp	2043227
+mscorlib3.cpp	1764099
+mscorlib4.cpp	2195166
+mscorlib5.cpp	2082619
+mscorlib6.cpp	2209752
+mscorlib7.cpp	2092904
+mscorlib8.cpp	1856724
+mscorlib9.cpp	2378635
+System.Configuration.cpp	49703
+System.Configuration_Attr.cpp	47897
+System.Core.cpp	24620
+System.Core_Attr.cpp	85189
+System.cpp	1416547
+System.Xml.cpp	5666
+System.Xml_Attr.cpp	52406
+System_Attr.cpp	90729
+System1.cpp	1045642
+System2.cpp	959299
+System3.cpp	631265
+Unity.InputSystem.cpp	2525555
+Unity.InputSystem.Switch.cpp	431675
+Unity.InputSystem.Switch_Attr.cpp	111401
+Unity.InputSystem_Attr.cpp	1826729
+Unity.InputSystem1.cpp	2432952
+Unity.InputSystem10.cpp	993647
+Unity.InputSystem2.cpp	3109458
+Unity.InputSystem3.cpp	2379388
+Unity.InputSystem4.cpp	2562721
+Unity.InputSystem5.cpp	2825749
+Unity.InputSystem6.cpp	2706832
+Unity.InputSystem7.cpp	2629385
+Unity.InputSystem8.cpp	2732459
+Unity.InputSystem9.cpp	3132397
+Unity.Mathematics.cpp	243520
+Unity.Mathematics_Attr.cpp	33159
+Unity.RenderPipeline.Universal.ShaderLibrary.cpp	19666
+Unity.RenderPipeline.Universal.ShaderLibrary_Attr.cpp	18384
+Unity.RenderPipelines.Core.Runtime.cpp	2073005
+Unity.RenderPipelines.Core.Runtime_Attr.cpp	409380
+Unity.RenderPipelines.Core.Runtime1.cpp	2623220
+Unity.RenderPipelines.Core.Runtime2.cpp	2381537
+Unity.RenderPipelines.Universal.Runtime.cpp	2137041
+Unity.RenderPipelines.Universal.Runtime_Attr.cpp	458761
+Unity.RenderPipelines.Universal.Runtime1.cpp	2734594
+Unity.RenderPipelines.Universal.Runtime2.cpp	2849246
+Unity.RenderPipelines.Universal.Runtime3.cpp	2470117
+Unity.TextMeshPro.cpp	2626792
+Unity.TextMeshPro_Attr.cpp	255925
+Unity.TextMeshPro1.cpp	2197483
+Unity.TextMeshPro2.cpp	3308033
+Unity.TextMeshPro3.cpp	2542308
+Unity.TextMeshPro4.cpp	2008810
+Unity.TextMeshPro5.cpp	1169730
+UnityEngine.AIModule.cpp	23321
+UnityEngine.AIModule_Attr.cpp	87879
+UnityEngine.AndroidJNIModule.cpp	590927
+UnityEngine.AndroidJNIModule_Attr.cpp	143151
+UnityEngine.AnimationModule.cpp	248647
+UnityEngine.AnimationModule_Attr.cpp	169817
+UnityEngine.AssetBundleModule.cpp	38424
+UnityEngine.AssetBundleModule_Attr.cpp	79675
+UnityEngine.AudioModule.cpp	125407
+UnityEngine.AudioModule_Attr.cpp	140268
+UnityEngine.CoreModule.cpp	2306863
+UnityEngine.CoreModule_Attr.cpp	1335070
+UnityEngine.CoreModule1.cpp	2387748
+UnityEngine.CoreModule2.cpp	1822217
+UnityEngine.cpp	3258
+UnityEngine.DirectorModule.cpp	22063
+UnityEngine.DirectorModule_Attr.cpp	84263
+UnityEngine.GridModule.cpp	5237
+UnityEngine.GridModule_Attr.cpp	92818
+UnityEngine.IMGUIModule.cpp	804729
+UnityEngine.IMGUIModule_Attr.cpp	195043
+UnityEngine.InputLegacyModule.cpp	147593
+UnityEngine.InputLegacyModule_Attr.cpp	94069
+UnityEngine.InputModule.cpp	65558
+UnityEngine.InputModule_Attr.cpp	86504
+UnityEngine.JSONSerializeModule.cpp	44372
+UnityEngine.JSONSerializeModule_Attr.cpp	84138
+UnityEngine.ParticleSystemModule.cpp	131137
+UnityEngine.ParticleSystemModule_Attr.cpp	145899
+UnityEngine.Physics2DModule.cpp	187684
+UnityEngine.Physics2DModule_Attr.cpp	155327
+UnityEngine.PhysicsModule.cpp	179141
+UnityEngine.PhysicsModule_Attr.cpp	162904
+UnityEngine.SharedInternalsModule.cpp	178080
+UnityEngine.SharedInternalsModule_Attr.cpp	145662
+UnityEngine.SpriteShapeModule.cpp	4704
+UnityEngine.SpriteShapeModule_Attr.cpp	84161
+UnityEngine.SubsystemsModule.cpp	128268
+UnityEngine.SubsystemsModule_Attr.cpp	96872
+UnityEngine.SwitchModule.cpp	92254
+UnityEngine.SwitchModule_Attr.cpp	128724
+UnityEngine.TerrainModule.cpp	272699
+UnityEngine.TerrainModule_Attr.cpp	106222
+UnityEngine.TextCoreModule.cpp	288668
+UnityEngine.TextCoreModule_Attr.cpp	143639
+UnityEngine.TextRenderingModule.cpp	207519
+UnityEngine.TextRenderingModule_Attr.cpp	103285
+UnityEngine.TilemapModule.cpp	95218
+UnityEngine.TilemapModule_Attr.cpp	117431
+UnityEngine.UI.cpp	2350494
+UnityEngine.UI_Attr.cpp	342953
+UnityEngine.UI1.cpp	1544700
+UnityEngine.UI2.cpp	1877667
+UnityEngine.UI3.cpp	1458269
+UnityEngine.UIElementsModule.cpp	11691
+UnityEngine.UIElementsModule_Attr.cpp	72686
+UnityEngine.UIElementsNativeModule.cpp	106177
+UnityEngine.UIElementsNativeModule_Attr.cpp	99953
+UnityEngine.UIModule.cpp	230449
+UnityEngine.UIModule_Attr.cpp	122314
+UnityEngine.UnityWebRequestModule.cpp	460503
+UnityEngine.UnityWebRequestModule_Attr.cpp	121648
+UnityEngine.VFXModule.cpp	93091
+UnityEngine.VFXModule_Attr.cpp	126287
+UnityEngine.VideoModule.cpp	86387
+UnityEngine.VideoModule_Attr.cpp	113739
+UnityEngine.VRModule.cpp	52911
+UnityEngine.VRModule_Attr.cpp	102738
+UnityEngine.XRModule.cpp	372370
+UnityEngine.XRModule_Attr.cpp	169719
+UnityEngine_Attr.cpp	10954
+UnlinkedFunctions.cpp	331
+UnresolvedVirtualCallStubs.cpp	929185
+
